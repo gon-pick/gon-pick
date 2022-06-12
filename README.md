@@ -28,7 +28,7 @@
 🤟Me🤟<br>
   HI there! I'm <b>full-stack developer</b> using Java and Javascript.<br>
   <a href="https://velog.io/@opve555" alt="devVlog" target="_blank"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=LiveJournal&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Gmail-FF6000?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF6000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opve555@gmail.com"/>]
 </p>
 
 <div align="center">
