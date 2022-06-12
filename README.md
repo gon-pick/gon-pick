@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE9FFC,100:7367F0&height=300&section=header&text=Welcome%20gon-pick&fontColor=ffffff&fontSize=70&" />
+
+
 
 <!--
 **gon-pick/gon-pick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
