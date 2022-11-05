@@ -25,7 +25,7 @@
 
 <p align="center">
 🤟Me🤟<br>
-  HI there! I'm <b>full-stack developer</b> using Java and Javascript.<br>
+  HI there! I'm <b>Backend developer</b> using Java.<br>
 </p>
 
 <div align="center">
