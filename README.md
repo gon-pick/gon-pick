@@ -8,7 +8,7 @@
 <p align="center"> Techs that I've often used </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-37C3C3?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JAVA-37C3C3?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-80E12A?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-FF5A5A?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Mysql-ffcc00?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
@@ -30,7 +30,6 @@
 
 <div align="center">
 
-<a href="https://velog.io/@opve555" alt="devVlog" target="_blank"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=LiveJournal&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opve555@gmail.com)](mailto:opve555@gmail.com)
 
 </div>
