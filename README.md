@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE9FFC,100:7367F0&height=300&section=header&text=Welcome%20gon-pick&fontColor=ffffff&fontSize=70&" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE9FFC,100:7367F0&height=300&section=header&text=Welcome%20&fontColor=ffffff&fontSize=70&" /></div>
 
 <p align="center"> <img width=200px height=200px src="https://cdn.pixabay.com/photo/2013/07/12/15/55/penguin-150563_960_720.png"/> </p>
 <br />
@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-13C7A3?style=flat-square&logo=amazon AWS&logoColor=white"/></a>&nbsp
 <br />
-<img src="https://img.shields.io/badge/HTML-FF69B4?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-0064CD?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-FFAF00?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-00E1FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Node.js-998800?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
