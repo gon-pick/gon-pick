@@ -1,8 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE9FFC,100:7367F0&height=300&section=header&text=Welcome%20&fontColor=ffffff&fontSize=70&" /></div>
 
-<p align="center"> <img width=200px height=200px src="https://cdn.pixabay.com/photo/2013/07/12/15/55/penguin-150563_960_720.png"/> </p>
 <br />
-
 
 <h3 align="center">🎈 Tech Stack 🎈</h3>
 <p align="center"> Techs that I've often used </p>
