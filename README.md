@@ -17,12 +17,16 @@
 <img src="https://img.shields.io/badge/React-00E1FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Node.js-998800?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 </p>
-<hr /><br>
+<hr />
+
+<br />
 
 <p align="center">
 🤟Me🤟<br>
   HI there! I'm <b>Backend developer</b> using Java.<br>
 </p>
+
+<br />
 
 <div align="center">
 
@@ -30,6 +34,7 @@
 
 </div>
 
+<br />
 
 <div align="center">
 
