@@ -38,8 +38,8 @@
 
 <div align="center">
 
-[![gon-pick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gon-pick&title_color=FFD228&show_icons=true&theme=radical)](https://github.com/gon-pick/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gon-pick&layout=compact)](https://github.com/gon-pick/github-readme-stats)
+[![jaegon77's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaegon77&title_color=FFD228&show_icons=true&theme=radical)](https://github.com/jaegon77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegon77&layout=compact)](https://github.com/jaegon77/github-readme-stats)
   
 </div>
  
@@ -49,7 +49,7 @@
 
 
 <!--
-**gon-pick/gon-pick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaegon77/jaegon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
