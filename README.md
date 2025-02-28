@@ -6,7 +6,7 @@
 <p align="center"> Techs that I've often used </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JAVA-37C3C3?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JAVA?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-80E12A?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-FF5A5A?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Mysql-ffcc00?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
@@ -15,7 +15,7 @@
 <br />
 <img src="https://img.shields.io/badge/Javascript-FFAF00?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-00E1FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Node.js-998800?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/vue.js-998800?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
 </p>
 <hr />
 
