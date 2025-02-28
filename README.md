@@ -23,7 +23,7 @@
 
 <p align="center">
 🤟Me🤟<br>
-  HI there! I'm <b>Backend developer</b> using Java.<br>
+  I am a developer and a businessman.<br>
 </p>
 
 <br />
