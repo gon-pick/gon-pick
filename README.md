@@ -6,7 +6,7 @@
 <p align="center"> Techs that I've often used </p>
 
 <p align="center">
-<img src="[https://img.shields.io/badge/JAVA?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JAVA-37C3C3?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-80E12A?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-FF5A5A?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Mysql-ffcc00?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
